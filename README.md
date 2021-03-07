@@ -33,7 +33,7 @@ yarn start # build `client` app
 ```
 
 To see how the application works, follow the link:
-https://60391060105c8a014e0cb007--competent-roentgen-20d254.netlify.app/
+https://realtime-chat-hello.netlify.app/
 
 ## License
 
